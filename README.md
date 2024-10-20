@@ -2,7 +2,7 @@
 - 👀 I’m interested in Data Science and Machine Learning 
 - 🌱 I’m currently learning Machine Learning ,NLP and SQL
 - 💞️ I’m looking to collaborate on Data Analysis and Machine Learning 
-- 📫 can reach me @madabattulaalekhya07@gmail.com
+- 📫 can reach me madabattulaalekhya07@gmail.com
 - ⚡ Fun fact: Reading Books,Travel,Exploring
 
 <!---
