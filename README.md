@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @AlekhyaMadabattula
+- 👋 Hi, I’m AlekhyaMadabattula
 - 👀 I’m interested in Data Science and Machine Learning 
 - 🌱 I’m currently learning Machine Learning ,NLP and SQL
 - 💞️ I’m looking to collaborate on Data Analysis and Machine Learning 
